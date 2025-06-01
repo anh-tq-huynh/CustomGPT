@@ -50,7 +50,9 @@ _4.Feedbacks saved in json file_
 
 ## Value proposition
 [View the short video for value proposition (30s)](https://youtu.be/PuZjVkw9fiM)
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e59018ad-021a-4934-8696-8076b0fe3206" />
+
 - [Leaflet](https://github.com/anh-tq-huynh/CustomGPT/blob/main/AI%20tool%20Leaflet_FIGBC.pdf)
 - [Presentation](https://github.com/anh-tq-huynh/CustomGPT/blob/main/SUSTAINABILITY%20INSIGHT%20AI_Presentation.pdf)
 
