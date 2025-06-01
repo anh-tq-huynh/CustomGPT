@@ -1,7 +1,7 @@
 # Introduction: CustomGPT
-This is a group project, building a chatbot that returns ChatGPT4.0 's responses using REST API. This is a participation in [Raksa AI Innovation Challenge](https://github.com/anh-tq-huynh/CustomGPT/blob/main/Raksa%20AI%20Innovation%20Challenge%20_%20Rakennusalan%20tieto-%20ja%20taitokeskittyma%CC%88.pdf) during my first year in Metropolia UAS.
+This is a group project, building a chatbot that returns ChatGPT4.0 's responses using REST API in the course of 2 weeks. We spent 1 week researching and understanding the client's challenges, and another week for coding. This is a participation in [Raksa AI Innovation Challenge](https://github.com/anh-tq-huynh/CustomGPT/blob/main/Raksa%20AI%20Innovation%20Challenge%20_%20Rakennusalan%20tieto-%20ja%20taitokeskittyma%CC%88.pdf) during my first year in Metropolia UAS.
 
-In this contest, our team was requested to help FIGBC - Green Building Council Finland to solve their emerging challenge. FIGBC is a non-profit association of sustainable built environment, providing consultancy for their members to build a sustainable built environment throughout the value chain and life cycle. 
+In this contest, our team was requested to help the client, FIGBC - Green Building Council Finland to solve their emerging challenge. FIGBC is a non-profit association of sustainable built environment, providing consultancy for their members to build a sustainable built environment throughout the value chain and life cycle. 
 
 On a daily basis, they receive a lot of questions regarding sustainability. Many times, the questions are repetitive, resulting in a waste of personnel resources at FIGBC who repeatedly answer the same questions. 
 
@@ -48,6 +48,13 @@ _4.Feedbacks saved in json file_
 
 <img width="524" alt="Feedbacks saved in json" src="https://github.com/user-attachments/assets/810f14c9-6d36-42b0-a6d6-846c12497a64" />
 
+## Value proposition
+[View the short video for value proposition (30s)](https://youtu.be/PuZjVkw9fiM)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e59018ad-021a-4934-8696-8076b0fe3206" />
+- [Leaflet](https://github.com/anh-tq-huynh/CustomGPT/blob/main/AI%20tool%20Leaflet_FIGBC.pdf)
+- [Presentation](https://github.com/anh-tq-huynh/CustomGPT/blob/main/SUSTAINABILITY%20INSIGHT%20AI_Presentation.pdf)
+
+
 ## How to run
 ### Prerequisite
 - Please make sure that you have Python installed
@@ -85,7 +92,8 @@ If I were to have a chance to work further on this project, I would look into:
 
 ## Acknowledgement
 Special thanks to the team members who brought this project to life:
-* [Tram Nguyen](https://github.com/TramNguyenICT)
-* [Vivian Nguyen](https://github.com/veeveevu)
-* [Hanh Truong](https://github.com/HanhTr1)
-* [Anh Tran](https://github.com/anhlt13)
+* [Tram Nguyen](https://github.com/TramNguyenICT) - Train GPT, build the code to connect and retrieve reponses using API
+* [Vivian Nguyen](https://github.com/veeveevu) - Train GPT, research, identify challenges
+* [Hanh Truong](https://github.com/HanhTr1) - Train GPT, research
+* [Anh Tran](https://github.com/anhlt13) - Train GPT, research, find information how to integrate the chatbot to Wordpress
+* [Anh Huynh](https://github.com/anh-tq-huynh) - Train GPT, code for feedback system, create marketing plan and collaterals
