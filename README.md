@@ -1,5 +1,5 @@
-# Introduction: CustomGPT
-This is a group project, building a chatbot that returns ChatGPT4.0 's responses using REST API in the course of 2 weeks. We spent 1 week researching and understanding the client's challenges, and another week for coding. This is a participation in [Raksa AI Innovation Challenge](https://github.com/anh-tq-huynh/CustomGPT/blob/main/Raksa%20AI%20Innovation%20Challenge%20_%20Rakennusalan%20tieto-%20ja%20taitokeskittyma%CC%88.pdf) during my first year in Metropolia UAS.
+# Introduction: CustomGPT - 2nd place in the competition
+This is a group project, building a chatbot that returns ChatGPT4.0 's responses using REST API in the course of 2 weeks. We spent 1 week researching and understanding the client's challenges, and another week for coding. This is a participation in [Raksa AI Innovation Challenge](https://github.com/anh-tq-huynh/CustomGPT/blob/main/Raksa%20AI%20Innovation%20Challenge%20_%20Rakennusalan%20tieto-%20ja%20taitokeskittyma%CC%88.pdf) during my first year in Metropolia UAS. With this project, we secured second place in the competition.
 
 In this contest, our team was requested to help the client, FIGBC - Green Building Council Finland to solve their emerging challenge. FIGBC is a non-profit association of sustainable built environment, providing consultancy for their members to build a sustainable built environment throughout the value chain and life cycle. 
 
