@@ -1,2 +1,2 @@
 # CustomGPT
-Chatbot connected to ChatGPT4.0 using API
+A chatbot that returns ChatGPT4.0 's responses using REST API
