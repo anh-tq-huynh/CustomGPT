@@ -49,7 +49,7 @@ _4.Feedbacks saved in json file_
 <img width="524" alt="Feedbacks saved in json" src="https://github.com/user-attachments/assets/810f14c9-6d36-42b0-a6d6-846c12497a64" />
 
 ## Value proposition
-[View the short video for value proposition (30s)](https://youtu.be/PuZjVkw9fiM)
+[Value Proposition Video (30s)](https://youtu.be/PuZjVkw9fiM)
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e59018ad-021a-4934-8696-8076b0fe3206" />
 
